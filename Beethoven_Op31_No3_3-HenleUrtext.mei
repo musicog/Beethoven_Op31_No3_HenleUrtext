@@ -771,7 +771,7 @@
                               <rest xml:id="rest-0000000182644560" dur="8" />
                            </layer>
                         </staff>
-                        <slur xml:id="slur-0000000114064832" staff="1" tstamp="0.000000" endid="#note-0000000896015197" curvedir="above" />
+                        <slur xml:id="slur-0000000759896384" tstamp="0.000000" endid="#note-0000000896015197" curvedir="above" />
                         <slur xml:id="slur-0000000196307804" startid="#note-0000000282885096" endid="#note-0000000248929884" curvedir="below" />
                      </measure>
                      <sb xml:id="sb-0000000066025050" />
@@ -969,9 +969,9 @@
                               </chord>
                            </layer>
                         </staff>
-                        <dynam xml:id="dynam-0000000058598466" place="below" staff="1" tstamp="1.000000" vgrp="93">p</dynam>
+                        <dynam xml:id="dynam-0000000058598466" place="below" staff="1" tstamp="1.000000" vgrp="86">p</dynam>
                         <slur xml:id="slur-0000000357836375" startid="#note-0000000494562875" endid="#note-0000000195915244" curvedir="above" />
-                        <dynam xml:id="dynam-0000000364583685" place="below" staff="1" tstamp="3.000000" vgrp="98">p</dynam>
+                        <dynam xml:id="dynam-0000000364583685" place="below" staff="1" tstamp="3.000000" vgrp="86">p</dynam>
                      </measure>
                      <measure xml:id="measure-0000000207317520" n="21">
                         <staff xml:id="staff-0000000121024241" n="1">
@@ -1036,7 +1036,7 @@
                               </chord>
                            </layer>
                         </staff>
-                        <dynam xml:id="dynam-0000000898315212" place="between" staff="1 2" tstamp="3.000000" vgrp="87">f</dynam>
+                        <dynam xml:id="dynam-0000000898315212" place="between" staff="1 2" tstamp="3.000000" vgrp="86">f</dynam>
                      </measure>
                      <measure xml:id="measure-0000000072166222" n="23">
                         <staff xml:id="staff-0000000266672206" n="1">
