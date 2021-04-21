@@ -94,7 +94,7 @@
                               <rest xml:id="rest-0000000501230410" dur="4" />
                            </layer>
                         </staff>
-                        <tempo xml:id="tempo-0000000212748450" place="above" staff="1" tstamp="1.000000" vgrp="200">Allegro</tempo>
+                        <tempo xml:id="tempo-0000000212748450" place="above" staff="1" tstamp="1.000000" midi.bpm="144" vgrp="200">Allegro</tempo>
                         <dynam xml:id="dynam-0000000115476370" place="between" staff="1 2" tstamp="1.000000" vgrp="78">p</dynam>
                         <slur xml:id="slur-0000000428856973" startid="#note-0000000305904192" endid="#note-0000000015141690" curvedir="above" />
                      </measure>
