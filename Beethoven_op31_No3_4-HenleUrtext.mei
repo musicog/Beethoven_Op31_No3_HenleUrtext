@@ -69,7 +69,7 @@
                               </beam>
                            </layer>
                         </staff>
-                        <tempo xml:id="tempo-0000000832883704" place="above" staff="1" tstamp="1.000000">Presto con fuoco</tempo>
+                        <tempo xml:id="tempo-0000000832883704" place="above" staff="1" tstamp="1.000000" midi.bpm="300">Presto con fuoco</tempo>
                         <dynam xml:id="dynam-0000000281645411" place="between" staff="1 2" startid="#rest-0000000230226480">p</dynam>
                      </measure>
                   </section>
