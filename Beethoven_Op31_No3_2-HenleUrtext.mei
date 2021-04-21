@@ -104,7 +104,7 @@
                         </staff>
                         <dynam xml:id="dynam-0000001043145677" place="between" staff="1 2" tstamp="1.000000" vgrp="64">p</dynam>
                         <dynam xml:id="dynam-0000000844432606" place="between" staff="1 2" tstamp="2.500000" vgrp="64">sf</dynam>
-                        <tempo xml:id="tempo-0000000733598828" place="above" staff="1" tstamp="1.000000">Allegretto vivace</tempo>
+                        <tempo xml:id="tempo-0000000733598828" place="above" staff="1" tstamp="1.000000" midi.bpm="80">Allegretto vivace</tempo>
                         <tempo xml:id="tempo-0000000741884216" place="above" staff="1" tstamp="0.000000">
                            <rend xml:id="rend-0000000834076609" fontsize="150.00%" fontweight="normal">Scherzo</rend>
                         </tempo>
