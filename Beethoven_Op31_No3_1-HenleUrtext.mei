@@ -862,7 +862,6 @@
                                  <note xml:id="note-0000000189955914" dur="8" oct="3" pname="e" stem.dir="down" accid.ges="f" />
                                  <note xml:id="note-0000000122757228" dur="8" oct="3" pname="e" stem.dir="down" accid.ges="f" />
                                  <note xml:id="note-0000000396742710" dur="8" oct="3" pname="e" stem.dir="down" accid.ges="f" />
-                                 <rest xml:id="rest-0000000207105768" dur="4" ploc="c" oloc="4" />
                                  <note xml:id="note-0000000324222465" dur="8" oct="3" pname="e" stem.dir="down" accid.ges="f" />
                                  <note xml:id="note-0000000039485056" dur="8" oct="3" pname="e" stem.dir="down" accid.ges="f" />
                               </beam>
@@ -872,6 +871,7 @@
                                  <note xml:id="note-0000000056066980" oct="3" pname="b" accid.ges="f" />
                                  <note xml:id="note-0000000024222220" oct="3" pname="g" />
                               </chord>
+                              <rest xml:id="rest-0000000207105768" dur="4" ploc="c" oloc="4" />
                               <rest xml:id="rest-0000000108956496" dur="4" ploc="c" oloc="4" />
                            </layer>
                         </staff>
@@ -7616,9 +7616,7 @@
                         <staff xml:id="staff-0000000068940180" n="1">
                            <layer xml:id="layer-0000000612649215" n="1">
                               <note xml:id="note-0000000644217159" dur="2" oct="4" pname="b" stem.dir="down" accid.ges="f" />
-                              <note xml:id="note-0000000051723840" dur="4" oct="4" pname="a" stem.dir="up">
-                                 <accid xml:id="accid-0000000011355084" accid="n" />
-                              </note>
+                              <note xml:id="note-0000000051723840" dur="4" oct="4" pname="a" stem.dir="up" accid.ges="f" />
                               <beam xml:id="beam-0000000053304160">
                                  <note xml:id="note-0000000383738960" dur="16" oct="4" pname="g" grace="acc" stem.dir="up" />
                                  <note xml:id="note-0000000556555507" dur="16" oct="4" pname="a" grace="acc" stem.dir="up" />
@@ -8130,7 +8128,7 @@
                               </chord>
                               <rest xml:id="rest-0000000914092495" dur="8" ploc="d" oloc="2" />
                               <rest xml:id="rest-0000000121567542" dur="4" ploc="d" oloc="2" />
-                              <rest xml:id="rest-0000000432173456" dur="4" ploc="e" oloc="2" />
+                              <rest xml:id="rest-0000000432173456" dur="4" ploc="d" oloc="2"/>
                            </layer>
                         </staff>
                         <dynam xml:id="dynam-0000000048477262" place="between" staff="1 2" startid="#note-0000000216318672">p</dynam>
