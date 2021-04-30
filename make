@@ -1,0 +1,7 @@
+rm Beethoven_Op31_No3_*.svg
+verovio -s 28 -a --grace-factor .62 --justify-vertically --grace-rhythm-align --spacing-linear .2 --spacing-non-linear .5 --breaks encoded --page-width 2000 --page-height 2900 --min-last-justification .3 --spacing-staff 8 --clef-change-factor .8 --left-margin-clef .8 --top-margin-artic 1 --bottom-margin-artic 1 --left-margin-accid .5 Beethoven_Op31_No3_1-HenleUrtext.mei
+verovio -s 28 -a --grace-factor .62 --justify-vertically --grace-rhythm-align --spacing-linear .2 --spacing-non-linear .5 --breaks encoded --page-width 2000 --page-height 2900 --min-last-justification .3 --spacing-staff 8 --clef-change-factor .8 --left-margin-clef .8 --top-margin-artic 1 --bottom-margin-artic 1 --left-margin-accid .5 Beethoven_Op31_No3_2-HenleUrtext.mei
+verovio -s 28 -a --grace-factor .62 --justify-vertically --grace-rhythm-align --spacing-linear .2 --spacing-non-linear .5 --breaks encoded --page-width 2000 --page-height 2900 --min-last-justification .3 --spacing-staff 8 --clef-change-factor .8 --left-margin-clef .8 --top-margin-artic 1 --bottom-margin-artic 1 --left-margin-accid .5 Beethoven_Op31_No3_3-HenleUrtext.mei
+verovio -s 28 -a --grace-factor .62 --justify-vertically --grace-rhythm-align --spacing-linear .2 --spacing-non-linear .5 --breaks encoded --page-width 2000 --page-height 2900 --min-last-justification .3 --spacing-staff 8 --clef-change-factor .8 --left-margin-clef .8 --top-margin-artic 1 --bottom-margin-artic 1 --left-margin-accid .5 Beethoven_Op31_No3_4-HenleUrtext.mei
+../svg2pdf.sh Beethoven_Op31_No3_*.svg
+rm *.svg
