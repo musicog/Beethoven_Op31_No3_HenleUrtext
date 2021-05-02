@@ -2,6 +2,11 @@
 
 # MEI encoding: Sonata for Piano (Opus 31 No. 3) by Ludwig van Beethoven
 
+
+[![DOI](https://zenodo.org/badge/355870112.svg)](https://zenodo.org/badge/latestdoi/355870112)
+
+
+
 This repository contains an [MEI](https://music-encoding.org) encoding of the **Sonata for Piano (Opus 31 No. 3)** by Ludwig van Beethoven, 
 following the [Henle Urtext edition, 1976. Plate HN1034](https://imslp.org/wiki/Special:ReverseLookup/621762).
 
