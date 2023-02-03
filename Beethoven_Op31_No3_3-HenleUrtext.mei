@@ -69,7 +69,7 @@
                         </staff>
                         <dynam xml:id="dynam-0000000108762745" place="between" staff="1 2" tstamp="1.000000" vgrp="84">p</dynam>
                         <slur xml:id="slur-0000000638187100" startid="#note-0000000176939308" endid="#note-0000000177384324" curvedir="below" />
-                        <tempo xml:id="tempo-0000000104281443" place="above" startid="#note-0000000176939308" midi.bpm="88">Moderato e grazioso</tempo>
+                        <tempo xml:id="tempo-0000000104281443" place="above" startid="#note-0000000176939308" mm="96" mm.unit"4">Moderato e grazioso</tempo>
                         <tempo xml:id="tempo-0000001747128778" place="above" staff="1" tstamp="0.500000">
                            <rend xml:id="rend-0000000200455770" fontsize="150.00%" fontweight="normal">Menuetto</rend>
                         </tempo>
