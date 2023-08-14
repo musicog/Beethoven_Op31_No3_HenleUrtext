@@ -2060,7 +2060,6 @@
                               <note xml:id="note-0000000453052665" dur="4" oct="4" pname="g" stem.dir="up" />
                               <note xml:id="note-0000000006419511" dur="8" oct="4" pname="f" stem.dir="up" />
                               <note xml:id="note-0000000028789380" dur="8" oct="3" pname="b" stem.dir="down" accid.ges="f" />
-                              <rest xml:id="rest-0000000174586788" dur="8" />
                               <beam xml:id="beam-0000000346655976">
                                  <note xml:id="note-0000000006327500" dots="1" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f" />
                                  <note xml:id="note-0000000732120096" dur="16" oct="5" pname="c" stem.dir="down">
@@ -2200,7 +2199,6 @@
                               <note xml:id="note-0000000250493600" dur="4" oct="4" pname="a" stem.dir="down" accid.ges="f" />
                               <note xml:id="note-0000000003894525" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f" />
                               <note xml:id="note-0000000447395538" dur="8" oct="5" pname="g" stem.dir="up" />
-                              <rest xml:id="rest-0000000535628450" dur="8" />
                            </layer>
                         </staff>
                         <staff xml:id="staff-0000000164876250" n="2">
@@ -2422,9 +2420,6 @@
                         <staff xml:id="staff-0000000227183190" n="2">
                            <layer xml:id="layer-0000000199057894" n="5">
                               <rest xml:id="rest-0000000176806032" dur="4" />
-                              <note xml:id="note-0000000458701089" dur="4" oct="2" pname="e" stem.dir="down" accid.ges="f">
-                                 <artic xml:id="artic-0000000162677280" artic="stacc" place="below" />
-                              </note>
                               <chord xml:id="chord-0000000321939033" dur="4" stem.dir="up">
                                  <artic xml:id="artic-0000000313415270" artic="stacc" place="above" />
                                  <note xml:id="note-0000000041419368" oct="4" pname="c">
@@ -2432,7 +2427,13 @@
                                  </note>
                                  <note xml:id="note-0000000033811844" oct="3" pname="a" accid.ges="f" />
                               </chord>
-                              <rest xml:id="rest-0000000208498212" dur="4" />
+                              <rest xml:id="rest-0000000176826032" dur="4" />
+                           </layer>
+                           <layer n="6">
+                              <space dur="4" />
+                              <note xml:id="note-0000000458701089" dur="4" oct="2" pname="e" stem.dir="down" accid.ges="f">
+                                 <artic xml:id="artic-0000000162677280" artic="stacc" place="below" />
+                              </note>
                            </layer>
                         </staff>
                         <slur xml:id="slur-0000000808713850" startid="#note-0000000130845352" endid="#note-0000000259787430" curvedir="below" />
@@ -2456,15 +2457,18 @@
                         <staff xml:id="staff-0000000018682838" n="2">
                            <layer xml:id="layer-0000000085384624" n="5">
                               <rest xml:id="rest-0000000736630868" dur="4" />
-                              <note xml:id="note-0000000244323360" dur="4" oct="2" pname="e" stem.dir="down" accid.ges="f">
-                                 <artic xml:id="artic-0000000369155852" artic="stacc" place="below" />
-                              </note>
                               <chord xml:id="chord-0000000537203502" dur="4" stem.dir="up">
                                  <artic xml:id="artic-0000000112002473" artic="stacc" place="above" />
                                  <note xml:id="note-0000000188722755" oct="3" pname="b" accid.ges="f" />
                                  <note xml:id="note-0000000884244306" oct="3" pname="g" />
                               </chord>
-                              <rest xml:id="rest-0000000257590890" dur="4" />
+                              <rest xml:id="rest-0000000736230868" dur="4" />
+                           </layer>
+                           <layer n="6">
+                              <space dur="4" />
+                              <note xml:id="note-0000000244323360" dur="4" oct="2" pname="e" stem.dir="down" accid.ges="f">
+                                 <artic xml:id="artic-0000000369155852" artic="stacc" place="below" />
+                              </note>
                            </layer>
                         </staff>
                         <slur xml:id="slur-0000000432054660" startid="#note-0000000328295544" endid="#note-0000000615241032" curvedir="below" />
@@ -2542,7 +2546,7 @@
                               </chord>
                            </layer>
                         </staff>
-                        <dir xml:id="dir-0000000490163235" place="between" staff="1 2" tstamp="1.000000" tstamp2="1m+1.0000" lform="dashed" extender="true" vgrp="200">ca</dir>
+                        <dir xml:id="dir-0000000490163235" place="between" staff="1 2" tstamp="2.000000" tstamp2="1m+1.0000" lform="dashed" extender="true" vgrp="200">ca</dir>
                         <slur xml:id="slur-0000000109868000" startid="#note-0000000194638080" endid="#note-0000000345709100" curvedir="below" />
                      </measure>
                      <measure xml:id="measure-0000000265550019" n="59">
