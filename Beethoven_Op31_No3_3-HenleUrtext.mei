@@ -52,6 +52,7 @@
                <section xml:id="section-0000000657655598">
                   <expansion plist="#A0 #A #A1 #A #A2 #B #B1 #B #B2 #C #C #D #D #A0-dc #A-dc #A2-dc #B-dc #B2-dc #Coda" xml:id="expansion-default" />
                   <expansion plist="#A0 #A #A2 #B #B2 #C #D #A0-dc #A-dc #A2-dc #B-dc #B2-dc #Coda" xml:id="expansion-minimal" />
+                  <expansion plist="#A0 #A #A2 #B #B2 #C #D #A0-dc #A-dc #A1-dc #A-dc #A2-dc #B-dc #B1-dc #B-dc #B2-dc #Coda" xml:id="expansion-maximal" />
                   <section xml:id="A0">
                      <measure xml:id="measure-0000000012282000" metcon="false" n="0">
                         <staff xml:id="staff-0000000182978838" n="1">
