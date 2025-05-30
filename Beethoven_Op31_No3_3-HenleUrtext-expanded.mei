@@ -3721,8 +3721,8 @@
                               </chord>
                               <rest xml:id="rest-0000000176826032" dur="4" />
                            </layer>
-                           <layer xml:id="lmdy78q" n="6">
-                              <space xml:id="s17fqga6" dur="4" />
+                           <layer xml:id="l1dpp5ky" n="6">
+                              <space xml:id="segi2nh" dur="4" />
                               <note xml:id="note-0000000458701089" dur="4" oct="2" pname="e" stem.dir="down" accid.ges="f">
                                  <artic xml:id="artic-0000000162677280" artic="stacc" place="below" />
                               </note>
@@ -3756,8 +3756,8 @@
                               </chord>
                               <rest xml:id="rest-0000000736230868" dur="4" />
                            </layer>
-                           <layer xml:id="lnfdeo9" n="6">
-                              <space xml:id="s1w8d75g" dur="4" />
+                           <layer xml:id="lyspmxi" n="6">
+                              <space xml:id="s1m2jn7d" dur="4" />
                               <note xml:id="note-0000000244323360" dur="4" oct="2" pname="e" stem.dir="down" accid.ges="f">
                                  <artic xml:id="artic-0000000369155852" artic="stacc" place="below" />
                               </note>
